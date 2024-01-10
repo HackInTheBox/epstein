@@ -74,7 +74,7 @@
                     <div id="topnav">
               <input class="js_nav_tweaks" type="hidden" value='[]'/>
                       </div>
-            <input class="js-tvsearch" type="hidden" value='{"ands":[],"minday":"06/04/2009","maxday":"01/09/2024"}'/>
+            <input class="js-tvsearch" type="hidden" value='{"ands":[],"minday":"06/04/2009","maxday":"01/10/2024"}'/>
     
         <!-- Begin page content -->
         <main id="maincontent">
